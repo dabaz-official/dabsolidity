@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dabaz-official/solidity.git"
+    "url": "git+https://github.com/dabaz-official/dabsolidity.git"
   },
   "author": "DabAZ <dabaz@dabaz.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dabaz-official/solidity/issues"
+    "url": "https://github.com/dabaz-official/dabsolidity/issues"
   },
-  "homepage": "https://github.com/dabaz-official/solidity#readme",
+  "homepage": "https://github.com/dabaz-official/dabsolidity#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
